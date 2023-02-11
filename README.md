@@ -1,6 +1,6 @@
 # REDIFUEL
 
-This repository contains all code and data for the REDIFUEL LCA published at [here](https://doi.org/10.1016/j.apenergy.2023.120834)
+This repository contains all code and data for the REDIFUEL LCA published [here](https://doi.org/10.1016/j.apenergy.2023.120834)
 
 1. Script to generate the Superstructure database
 2. Script to generate the Truck database
